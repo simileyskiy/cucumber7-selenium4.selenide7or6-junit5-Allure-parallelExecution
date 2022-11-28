@@ -25,3 +25,8 @@ MavenCustomParallelStrategy.java
 ```
 mvn allure:serve
 ```
+
+Прогон в 4 Threads
+
+![image](https://user-images.githubusercontent.com/43063004/204404483-af07f6c1-f2b6-41e7-8c11-e8c2db9ba620.png)
+
