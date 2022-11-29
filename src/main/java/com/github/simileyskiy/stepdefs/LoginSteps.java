@@ -1,7 +1,6 @@
-package org.example.simileyskiy.stepdefs;
+package com.github.simileyskiy.stepdefs;
 
 import com.codeborne.selenide.Condition;
-import com.codeborne.selenide.Configuration;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

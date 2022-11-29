@@ -1,4 +1,4 @@
-package org.example.simileyskiy;
+package com.github.simileyskiy;
 
 import org.junit.platform.engine.ConfigurationParameters;
 import org.junit.platform.engine.support.hierarchical.ParallelExecutionConfiguration;
