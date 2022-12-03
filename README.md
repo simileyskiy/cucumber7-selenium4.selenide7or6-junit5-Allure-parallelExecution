@@ -32,8 +32,9 @@ Run in 4 Threads Example
 
 
 
-Проект сборки с возможностью паралельного запуска с желаемым количеством Threads.
-Регулируется в MavenCustomParallelStrategy.java
+# cucumber7-selenium4.selenide6-junit5-Allure-parallelExecution
+
+Проект сборки с возможностью паралельного запуска с желаемым количеством Threads. Регулируется в MavenCustomParallelStrategy.java
 
 Для локального запуска тестов необходимо:
 
