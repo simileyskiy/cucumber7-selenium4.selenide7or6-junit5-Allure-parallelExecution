@@ -9,7 +9,7 @@ import java.util.function.Predicate;
 
 public class MavenCustomParallelStrategy implements ParallelExecutionConfiguration, ParallelExecutionConfigurationStrategy {
 
-    //Указываем желаемое количество Threads
+    //РЈСЃС‚Р°РЅРѕРІРёС‚СЊ Р¶РµР»Р°РµРјРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ Threads
     //Set custom Threads
     private static final int FIXED_PARALLELISM = 4;
 
