@@ -17,7 +17,6 @@ public class LoginSteps {
 
     @When("I navigate to {string}")
     public void iNavigateTo(String url) {
-//        Configuration.browserSize = "1920x1080";
         open(url);
 
     }
