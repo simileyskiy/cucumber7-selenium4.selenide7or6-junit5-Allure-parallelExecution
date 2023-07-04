@@ -16,6 +16,7 @@ public class Hook {
     @Before
     public void setUp() {
         Configuration.browserSize = "1920x1080";
+        System.setProperty("chromeoptions.args", "--remote-allow-origins=*");
 //        Configuration.headless = true;
     }
 
